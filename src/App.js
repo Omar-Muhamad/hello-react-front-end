@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import Greatings from './components/Greatings';
+import Greetings from './components/Greetings';
 import Header from './components/Header';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <Routes>
-        <Route path="/" element={<Greatings />} />
+        <Route path="/" element={<Greetings />} />
       </Routes>
     </div>
   );
