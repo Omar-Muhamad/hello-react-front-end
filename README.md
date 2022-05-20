@@ -19,10 +19,10 @@ You must have `Git` and `npm` installed in your machine.
 ### 2- Setup
 Run either of the following commands to clone the repository locally:
 ~~~bash
-git clone https://github.com/Omar-Muhamad/final-capstone-react-frontend.git
+git clone https://github.com/Omar-Muhamad/hello-rails-back-end
 ~~~
 ~~~bash
-git clone git@github.com:Omar-Muhamad/final-capstone-react-frontend.git
+git clone https://github.com/Omar-Muhamad/hello-react-front-end
 ~~~
 ### 3- Install
 Run `npm i` to install all the necessary dependencies.
